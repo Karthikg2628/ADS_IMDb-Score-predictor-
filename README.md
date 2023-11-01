@@ -68,6 +68,12 @@ Results and Outputs
 
 - Outputs such as cleaned datasets, trained model parameters, and evaluation metrics will be displayed or saved within the respective notebooks.
 
+Sample Output
+- (467,5)
+- (117,5)
+- (467,)
+- (117,)
+
 
 
  Future Improvements
